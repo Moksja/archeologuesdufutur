@@ -1,0 +1,4 @@
+
+
+    window.silex = window.silex || {}
+    window.silex.data = {"site":{"width":1200},"pages":[{"id":"page-page-z-ro","displayName":"Page zéro","link":{"linkType":"LinkTypePage","href":"#!page-page-z-ro"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-page-accueil","displayName":"Page Accueil","link":{"linkType":"LinkTypePage","href":"#!page-page-accueil"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true},{"id":"page-ee-accueil","displayName":"EE - Accueil","link":{"linkType":"LinkTypePage","href":"#!page-ee-accueil"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true},{"id":"page-eelv-accueil","displayName":"EELV - Accueil","link":{"linkType":"LinkTypePage","href":"#!page-eelv-accueil"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true}]}
